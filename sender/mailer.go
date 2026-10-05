@@ -78,6 +78,9 @@ func (m *Mailer) SendFromTemplate(ctx context.Context, templateUUID string, temp
 func (m *Mailer) SendEblast(ctx context.Context, toEmail, toName string) (*mailtrap.SendResponse, error) {
 	htmlBytes, err := os.ReadFile("index.html")
 	if err != nil {
+		htmlBytes, err = os.ReadFile("../index.html")
+	}
+	if err != nil {
 		return nil, fmt.Errorf("failed to read index.html: %w", err)
 	}
 

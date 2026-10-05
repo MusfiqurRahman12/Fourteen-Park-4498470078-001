@@ -22,8 +22,8 @@ type Config struct {
 
 // LoadConfig reads configuration from .env and environment variables.
 func LoadConfig() *Config {
-	// Attempt to load .env if present (non-fatal if missing)
 	_ = godotenv.Load()
+	_ = godotenv.Load("../.env")
 
 	apiToken := os.Getenv("MAILTRAP_API_TOKEN")
 	if apiToken == "" {
