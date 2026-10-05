@@ -1,0 +1,6 @@
+*.py
+sender/
+*.pdf
+*.txt
+ftp-upload/
+assets/
