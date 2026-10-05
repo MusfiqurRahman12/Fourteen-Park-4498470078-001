@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+
+conversation_transcript.jsonl
+CONVERSATION_RECORD.md
+.agents/

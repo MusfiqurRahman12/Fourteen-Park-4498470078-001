@@ -1,0 +1,131 @@
+Page rect: 650.0 x 2003.9200439453125
+
+Total images embedded: 2
+Image 0 (xref 140): 2709x2401, jpeg, 3
+Image 1 (xref 144): 575x116, png, 1
+
+--- TEXT BLOCKS ---
+Image block: bbox=[0.0, 0.0, 650.0, 574.0]
+Line bbox [105.2, 797.1, 549.2, 819.3]: 'Fourteen Park is thoughtfully designed around a curated ' (font=Arial-BoldMT, sz=16.0, col=#000000)
+Line bbox [126.7, 827.1, 527.8, 849.3]: 'collection of amenities that elevate everyday living.' (font=Arial-BoldMT, sz=16.0, col=#000000) | ' ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [127.9, 857.2, 526.5, 878.5]: 'An expansive amenity deck features a resort-style pool ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [127.1, 887.2, 527.3, 908.5]: 'and spa, complemented by beautifully appointed indoor ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [114.7, 917.2, 539.8, 938.5]: 'spaces for socializing, health, and relaxation. A private spa ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [116.0, 947.2, 538.4, 968.5]: 'experience, complete with sauna and cold plunge, offers a ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [122.1, 977.2, 532.4, 998.5]: 'serene retreat just steps from home. From its considered ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [130.6, 1007.2, 523.8, 1028.5]: 'interiors and exceptional amenities to its connection to ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [128.6, 1037.2, 525.8, 1058.5]: 'Ansley Park and the energy of Midtown, Fourteen Park ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [125.7, 1067.2, 528.7, 1088.5]: 'presents a sophisticated new expression of luxury living ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [153.1, 1097.2, 497.0, 1118.5]: 'in one of Atlanta’s most coveted neighborhoods.' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [143.1, 1157.2, 511.4, 1178.5]: 'We’ll have more to share about the residences and ' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [167.2, 1187.2, 482.8, 1208.5]: 'sales gallery opening in the coming months.' (font=ArialMT, sz=16.0, col=#000000)
+Line bbox [177.7, 679.8, 481.3, 725.0]: 'MORE TO COME ' (font=CenturyOldStyleStd-Regul, sz=36.0, col=#52483f)
+Line bbox [236.9, 721.8, 413.1, 767.0]: 'HOME TO' (font=CenturyOldStyleStd-Regul, sz=36.0, col=#52483f)
+Line bbox [242.6, 643.4, 407.4, 653.2]: 'B E Y O N D Y O U R F R O N T D O O R' (font=CommutersSans-Regular, sz=8.0, col=#1a1a1a)
+Line bbox [41.0, 1700.3, 611.1, 1711.5]: 'Broker Participation is welcomed and encouraged. ORAL REPRESENTATIONS CANNOT BE RELIED UPON AS CORRECTLY STATING REPRESENTATIONS ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1712.3, 611.1, 1723.5]: 'OF THE SELLER. Ansley Real Estate® and the Ansley Real Estate logos are registered service marks used with permission. Prices, services, terms, and ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1724.3, 611.1, 1735.5]: 'availability are subject to change at any time without notice. Images are artist’s renderings and may not represent the final building. Furnishings and fixtures ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1736.3, 611.0, 1747.5]: 'are for display purposes and are not included with the residence. Actual improvements, including, recreational facilities and amenities, may vary from those ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1748.3, 611.1, 1759.5]: 'shown. The project has been filed in the state of Florida and no other state. This is not an offer to sell or solicitation of offers to buy the condominium units ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1760.3, 611.1, 1771.5]: 'in states where such offer or solicitation requires prior qualification. This Condominium is being developed solely by KT Park West LLC, which was formed ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1772.3, 611.1, 1783.5]: 'solely for such purpose. Neither The Kolter Group LLC (“Kolter”) nor Kolter Urban LLC (“KU”) nor their respective affiliates are a developer of this project. ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1784.3, 611.1, 1795.5]: 'This Condominium is being developed solely by KT Park West LLC (“Developer”), which has a limited right to use the trademarked names and logos of ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1796.3, 611.1, 1807.5]: 'Kolter, KU and their respective affiliates, and associated marks, variations, logos, and stylized forms, pursuant to a license and marketing agreement. Any ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1808.3, 611.1, 1819.5]: 'and all statements, disclosures and/or representations arising out of or relating to the marketing and/or development of the Condominium and/or with ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1820.3, 611.1, 1831.5]: 'respect to the sales of units in the Condominium shall be deemed made solely by Developer (and not by Kolter, KU, or their respective affiliates). You agree ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1832.3, 611.0, 1843.5]: 'to look solely to Developer (and not to Kolter, KU, or any of their respective affiliates) with respect to any and all matters arising out of or relating to the ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1844.3, 459.3, 1855.5]: 'marketing and/or development of the Condominium and/or with respect to the sales of units in the Condominium.' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1868.3, 611.1, 1879.5]: 'COMPLIANCE STATEMENT: All information provided herein has been obtained from sources believed reliable, but may be subject to errors, omissions, ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1880.3, 611.1, 1891.5]: 'change of price, prior sale, or withdrawal without notice. Ansley Real Estate Christie’s International Real Estate and its affiliates make no representation, ' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Line bbox [41.0, 1892.3, 609.1, 1903.5]: 'warranty or guaranty as to accuracy of any information contained herein. You should consult your advisors for an independent verification of any properties.' (font=ProximaNova-Regular, sz=8.0, col=#ffffff)
+Image block: bbox=[467.0, 1929.5, 604.9, 1955.3]
+Line bbox [175.4, 1358.9, 474.6, 1381.5]: 'J O I N T H E I N T E R E S T L I S T' (font=CenturyOldStyleStd-Regul, sz=18.0, col=#ffffff)
+Image block: bbox=[0.0, 501.1, 650.0, 575.1]
+Line bbox [36.7, 552.6, 185.8, 562.5]: 'ARTIST’S CONCEPTUAL RENDERING' (font=Gotham-Book, sz=8.0, col=#ffffff)
+
+--- RECTANGLES / BACKGROUNDS ---
+Fill (0.9610000252723694, 0.9490000009536743, 0.925000011920929) rect [0.0, 574.0, 650.0, 1273.7]
+Fill (0.24699999392032623, 0.20399999618530273, 0.16500000655651093) rect [0.0, -0.0, 650.0, 574.0]
+Fill (1.0, 1.0, 1.0) rect [250.6, 185.8, 259.1, 193.2]
+Fill (1.0, 1.0, 1.0) rect [263.1, 185.8, 264.5, 193.2]
+Fill (1.0, 1.0, 1.0) rect [268.5, 185.8, 275.6, 193.2]
+Fill (1.0, 1.0, 1.0) rect [278.4, 185.8, 285.5, 193.2]
+Fill (1.0, 1.0, 1.0) rect [288.3, 185.6, 296.4, 193.4]
+Fill (1.0, 1.0, 1.0) rect [299.0, 185.8, 312.5, 193.2]
+Fill (1.0, 1.0, 1.0) rect [315.8, 185.8, 323.1, 193.2]
+Fill (1.0, 1.0, 1.0) rect [331.4, 185.8, 339.0, 193.2]
+Fill (1.0, 1.0, 1.0) rect [341.1, 185.8, 348.2, 193.2]
+Fill (1.0, 1.0, 1.0) rect [351.8, 185.8, 357.9, 193.2]
+Fill (1.0, 1.0, 1.0) rect [360.8, 185.8, 368.4, 193.2]
+Fill (1.0, 1.0, 1.0) rect [371.7, 185.8, 379.0, 193.2]
+Fill (1.0, 1.0, 1.0) rect [382.6, 185.8, 389.7, 193.2]
+Fill (1.0, 1.0, 1.0) rect [391.7, 185.8, 399.4, 193.2]
+Fill (1.0, 1.0, 1.0) rect [160.7, 130.3, 179.8, 158.6]
+Fill (1.0, 1.0, 1.0) rect [183.7, 129.9, 213.4, 158.9]
+Fill (1.0, 1.0, 1.0) rect [218.1, 130.3, 243.7, 158.9]
+Fill (1.0, 1.0, 1.0) rect [248.9, 130.3, 271.8, 158.6]
+Fill (1.0, 1.0, 1.0) rect [272.1, 130.3, 295.6, 158.6]
+Fill (1.0, 1.0, 1.0) rect [300.2, 130.3, 320.6, 158.6]
+Fill (1.0, 1.0, 1.0) rect [325.7, 130.3, 346.1, 158.6]
+Fill (1.0, 1.0, 1.0) rect [351.1, 130.3, 376.3, 158.6]
+Fill (1.0, 1.0, 1.0) rect [389.1, 130.3, 408.9, 158.6]
+Fill (1.0, 1.0, 1.0) rect [408.9, 130.3, 436.0, 158.6]
+Fill (1.0, 1.0, 1.0) rect [438.8, 130.3, 461.8, 158.6]
+Fill (1.0, 1.0, 1.0) rect [463.7, 130.3, 489.3, 158.6]
+Fill (1.0, 1.0, 1.0) rect [306.1, 46.0, 343.9, 96.5]
+Fill (0.24699999392032623, 0.20399999618530273, 0.16500000655651093) rect [0.0, 1273.7, 650.0, 2003.9]
+Fill (0.9760000109672546, 0.9729999899864197, 0.953000009059906) rect [250.7, 1934.5, 399.3, 1951.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [46.3, 1951.0, 47.5, 1953.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [47.6, 1950.9, 49.3, 1953.5]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [49.5, 1951.0, 50.9, 1953.3]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [51.0, 1951.0, 52.6, 1953.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [52.8, 1951.0, 53.9, 1953.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [54.8, 1951.0, 56.2, 1953.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [56.5, 1950.9, 58.2, 1953.3]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [58.4, 1951.0, 59.9, 1953.3]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [60.1, 1951.0, 61.5, 1953.3]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [61.8, 1951.0, 62.0, 1953.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [62.4, 1951.0, 63.8, 1953.2]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [64.1, 1950.9, 65.7, 1953.3]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [46.4, 1954.4, 48.3, 1957.0]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [48.6, 1954.5, 50.1, 1957.0]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [50.3, 1954.5, 51.8, 1957.0]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [52.0, 1954.4, 53.9, 1957.0]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [54.2, 1954.5, 55.8, 1956.9]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [55.9, 1954.5, 57.5, 1956.9]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [57.7, 1954.5, 59.3, 1957.0]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [59.7, 1954.5, 61.3, 1956.9]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [61.7, 1954.5, 62.1, 1956.9]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [62.3, 1954.5, 63.9, 1956.9]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [63.9, 1954.5, 65.7, 1956.9]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [44.1, 1931.4, 67.8, 1949.1]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [52.2, 1942.8, 60.0, 1945.1]
+Fill (0.984000027179718, 0.968999981880188, 0.9369999766349792) rect [52.2, 1939.6, 60.0, 1941.9]
+Fill (1.0, 1.0, 1.0) rect [255.3, 1620.8, 263.2, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [267.0, 1620.8, 268.2, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [272.0, 1620.8, 278.7, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [281.3, 1620.8, 288.0, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [290.6, 1620.7, 298.2, 1627.9]
+Fill (1.0, 1.0, 1.0) rect [300.6, 1620.8, 313.2, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [316.4, 1620.8, 323.2, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [331.0, 1620.8, 338.2, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [340.1, 1620.8, 346.8, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [350.1, 1620.8, 355.8, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [358.5, 1620.8, 365.7, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [368.8, 1620.8, 375.6, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [379.0, 1620.8, 385.7, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [387.6, 1620.8, 394.7, 1627.8]
+Fill (1.0, 1.0, 1.0) rect [170.9, 1568.8, 188.9, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [192.5, 1568.4, 220.3, 1595.7]
+Fill (1.0, 1.0, 1.0) rect [224.8, 1568.8, 248.8, 1595.7]
+Fill (1.0, 1.0, 1.0) rect [253.6, 1568.8, 275.1, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [275.4, 1568.8, 297.4, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [301.8, 1568.8, 320.9, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [325.6, 1568.8, 344.8, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [349.5, 1568.8, 373.1, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [385.1, 1568.8, 403.7, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [403.7, 1568.8, 429.1, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [431.7, 1568.8, 453.2, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [455.1, 1568.8, 479.1, 1595.3]
+Fill (1.0, 1.0, 1.0) rect [307.3, 1489.8, 342.7, 1537.1]
+Fill (0.0, 0.0, 0.0) rect [0.7, 502.1, 650.7, 574.0]
